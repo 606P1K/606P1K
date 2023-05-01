@@ -12,6 +12,7 @@
   </li>
   <li>📫 How to reach me: volodymyr.stepaniuk.04@gmail.com</li>
   <br>
+  <h3>Levels of knowledge:</h3>
   <li>🟥 level - Basic level of knowledge</li>
   <li>🟨 level - Common level of knowledge</li>
   <li>🟩 level - Advanced level of knowledge</li>
