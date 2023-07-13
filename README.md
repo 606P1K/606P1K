@@ -3,10 +3,10 @@
   <li>👀 My current technologies stuck:
   <ul>
     <li>Java(🟩 level)</li>
-    <li>Spring(🟥 level)</li>
-    <li>Hibernate(🟥 level)</li>
-    <li>Rest API(🟥 level)</li>
-    <li>PostgreSQL(🟥 level)</li>
+    <li>Spring & Spring Boot(🟨 level)</li>
+    <li>JPA & Hibernate(🟨 level)</li>
+    <li>Rest API(🟨 level)</li>
+    <li>PostgreSQL(🟨 level)</li>
     <li>T-SQL(🟨 level)</li>
   </ul>
   </li>
