@@ -1,5 +1,5 @@
 <ul>
-  <li>👋 Hi, I’m @VolodymyrStepaniuk, interested in Programming, especially in Back-end development</li>
+  <li>👋 Hi, I’m @VolodymyrStepaniuk, interested in Programming, especially in Backend development</li>
   <li>👀 My current technologies stuck:
   <ul>
     <li>Java(🟩 level)</li>
